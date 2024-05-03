@@ -1,0 +1,19 @@
+.navbar{
+    background-color:yellow;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    a{
+        color:green;
+        text-decoration: none;
+        font-size: 20px;
+    }
+    a:hover{
+        color: red;
+        transition: 1s;
+    }
+    
+min-height: 50px;
+}
